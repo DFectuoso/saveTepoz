@@ -1,0 +1,9 @@
+<Response>
+<Say voice="alice">
+Thank you for calling the secret undetectable number that we will use to save Tepozteco. Please listen carefully
+</Say>
+<Pause length="1"/>
+<Say voice="alice">
+Sadly we are unable to give you the secret code out loud. Please SMS us.
+</Say>
+</Response>
